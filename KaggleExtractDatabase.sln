@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaggleExtractDatabase", "KaggleExtractDatabase.csproj", "{12FDD8DC-C5C1-4EB3-A856-C14EE031DC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FDD8DC-C5C1-4EB3-A856-C14EE031DC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FDD8DC-C5C1-4EB3-A856-C14EE031DC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FDD8DC-C5C1-4EB3-A856-C14EE031DC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FDD8DC-C5C1-4EB3-A856-C14EE031DC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E07F4E-BFE2-4F2D-8137-4797FBB5A7BF}
+	EndGlobalSection
+EndGlobal
